@@ -8,3 +8,4 @@ Course prepared for [Sofia University](https://www.sofia.edu): Palo Alto facilit
 | N  | Lecture       | Desctription                                 | 
 | -- | ------------- | -------------                                | 
 | 01 | [Introduction](/lectures/lecture_ml_01_2024.pdf)    | Introduction. Course logistics and syllabus. Historical reference. ML Paradigms |
+| 02 | [Supervised Learning](/lectures/lecture_ml_02_2024.pdf)    | Supervised Learning. Features. Loss functions. Cross-validation |
